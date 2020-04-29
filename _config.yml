@@ -1,1 +1,10 @@
 theme: jekyll-theme-slate
+
+# Name of website
+title: My website
+
+# Short description of your site
+description: You can find me here!
+
+# Your name to show in the footer
+author: Priya A. Tiru
